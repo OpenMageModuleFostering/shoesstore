@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ShoesStore",
+    "type": "magento-module",
+    "license": "GPL",
+    "homepage": "",
+    "description": "BSEtec takes pride to release its first free template Shoes Store in Magento Connect.",
+    "authors": [
+    {
+        "name": "BseTec",
+        "email": "support@bsetec.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
